@@ -1,0 +1,6 @@
+
+message PlayerData{
+    required    string UserName=1;
+    required     string password=2;
+    required     string email=3;
+}
